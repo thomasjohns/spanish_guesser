@@ -1,0 +1,2000 @@
+1	de	from
+2	que	what
+3	no	do not
+4	a	to
+5	la	the
+6	el	he
+7	y	Y
+8	es	is
+9	en	in
+10	lo	the
+11	un	a
+12	por	by
+13	qué	what
+14	me	me
+15	una	a
+16	te	tea
+17	se	is
+18	los	the
+19	con	with
+20	para	for
+21	mi	my
+22	está	this
+23	si	if
+24	sí	if
+25	pero	but
+26	las	the
+27	bien	all right
+28	yo	I
+29	su	his
+30	eso	that
+31	aquí	here
+32	del	of the
+33	al	to the
+34	como	as
+35	le	you
+36	tu	you
+37	más	plus
+38	todo	all
+39	ya	already
+40	muy	very
+41	esto	this
+42	vamos	come on
+43	ha	he has
+44	ahora	now
+45	esta	this
+46	hay	there are
+47	estoy	am
+48	algo	something
+49	tú	you
+50	tengo	I have
+51	así	so
+52	nada	nothing
+53	nos	us
+54	cuando	when
+55	cómo	how
+56	él	he
+57	sé	know
+58	estás	these
+59	sólo	alone
+60	o	or
+61	quiero	I want
+62	este	this
+63	tiene	has
+64	gracias	Thank you
+65	he	I have
+66	puedo	may l
+67	bueno	good
+68	soy	I am
+69	era	was
+70	ser	be
+71	vez	time
+72	hacer	do
+73	todos	everyone
+74	ella	she
+75	son	They are
+76	fue	was
+77	eres	you are
+78	usted	you
+79	tienes	do you have
+80	puede	can
+81	señor	Mr
+82	ese	that
+83	voy	I go
+84	quién	who
+85	casa	home
+86	creo	I believe
+87	porque	why
+88	tan	so
+89	favor	favor
+90	hola	Hello
+91	dónde	where
+92	nunca	never
+93	sus	their
+94	sabes	you know
+95	dos	two
+96	verdad	true
+97	quieres	you want
+98	mucho	a lot
+99	entonces	so
+100	estaba	I was
+101	tiempo	weather
+102	mí	my
+103	esa	that
+104	mejor	best
+105	hombre	man
+106	hace	ago
+107	va	goes
+108	dios	God
+109	también	also
+110	has	you
+111	vida	lifetime
+112	sin	without
+113	están	is it so
+114	ver	see
+115	sr	Mr
+116	siempre	always
+117	oh	oh
+118	hasta	until
+119	ti	you
+120	ahí	there
+121	siento	I feel
+122	puedes	can
+123	decir	say
+124	ni	neither
+125	sobre	on
+126	años	years
+127	tenemos	we have
+128	uno	one
+129	día	day
+130	noche	night
+131	cosas	stuff
+132	alguien	someone
+133	antes	before
+134	mis	my
+135	ir	to go
+136	poco	little
+137	otra	other
+138	quiere	wants
+139	solo	alone
+140	nadie	no one
+141	nosotros	US
+142	padre	father
+143	gente	people
+144	parece	looks like
+145	dinero	money
+146	estar	to be
+147	hecho	fact
+148	les	them
+149	mismo	same
+150	sea	be
+151	estamos	we are
+152	mira	look
+153	pasa	pass
+154	trabajo	job
+155	dijo	said
+156	ellos	they
+157	vas	you go
+158	claro	Clear
+159	mañana	morning
+160	han	they have
+161	otro	other
+162	después	after
+163	desde	since
+164	mundo	world
+165	hablar	talk
+166	tal	such
+167	había	had
+168	sabe	knows
+169	acuerdo	agreement
+170	momento	moment
+171	donde	where
+172	fuera	outside
+173	hijo	son
+174	podría	could
+175	seguro	insurance
+176	mujer	woman
+177	amigo	friend
+178	días	days
+179	madre	mother
+180	allí	there
+181	cosa	thing
+182	tus	your
+183	lugar	place
+184	dice	He says
+185	gusta	like
+186	será	be
+187	gran	great
+188	mierda	shit
+189	tenía	had
+190	mamá	mom
+191	papá	dad
+192	espera	wait
+193	hoy	today
+194	tener	have
+195	ven	come
+196	buena	good
+197	estado	state
+198	nuevo	new
+199	luego	later
+200	podemos	we can
+201	tres	three
+202	dije	said
+203	nuestro	our
+204	sido	been
+205	menos	less
+206	debe	should
+207	tipo	kind
+208	buen	good
+209	conmigo	with me
+210	mal	wrong
+211	todas	all
+212	nombre	first name
+213	haciendo	doing
+214	crees	you think
+215	toda	all
+216	amor	love
+217	mío	my own
+218	visto	viewed
+219	estas	these
+220	quería	would
+221	eh	Hey
+222	tarde	late
+223	importa	matter
+224	parte	part
+225	aún	yet
+226	nuestra	our
+227	tienen	they have
+228	tanto	so much
+229	cada	each
+230	hora	hour
+231	veces	times
+232	necesito	I need
+233	contigo	with you
+234	ve	go
+235	haber	have
+236	buenas	good
+237	dicho	saying
+238	quien	who
+239	hacerlo	do what
+240	demasiado	too
+241	oye	hears
+242	ah	ah
+243	haces	you do
+244	hombres	men
+245	saber	to know
+246	entre	between
+247	adiós	goodbye
+248	problema	problem
+249	unos	some
+250	vaya	go
+251	hemos	we have
+252	cierto	true
+253	debo	I must
+254	razón	reason
+255	alguna	any
+256	esos	those
+257	pues	well
+258	veo	I see
+259	idea	idea
+260	chica	girl
+261	realmente	really
+262	policía	police
+263	hizo	did
+264	estos	these
+265	amigos	friends
+266	ustedes	you
+267	quizá	maybe
+268	serio	serious
+269	cabeza	head
+270	hermano	brother
+271	digo	I say
+272	van	go
+273	pasado	past
+274	salir	get out
+275	cuenta	bill
+276	familia	family
+277	cariño	sweetie
+278	vale	OK
+279	algún	some
+280	muchas	many
+281	señora	lady
+282	somos	we are
+283	pueden	may
+284	noches	nights
+285	muerto	dead
+286	ud	you
+287	todavía	still
+288	rápido	fast
+289	viejo	old
+290	lado	side
+291	debería	should
+292	ves	you see
+293	sabía	he knew
+294	suerte	luck
+295	cuidado	care
+296	buenos	good ones
+297	sería	would
+298	da	gives
+299	mientras	While
+300	miedo	fear
+301	primera	first
+302	contra	against
+303	puerta	door
+304	pronto	soon
+305	e	and
+306	casi	almost
+307	nueva	new
+308	espero	I hope
+309	cualquier	any
+310	esas	those
+311	agua	water
+312	os	you
+313	chico	boy
+314	cuánto	how much
+315	niños	children
+316	venga	come
+317	camino	path
+318	primero	First
+319	hacia	toward
+320	pensé	I thought
+321	dentro	inside
+322	pasó	He passed
+323	debes	you must
+324	ciudad	city
+325	historia	history
+326	año	year
+327	viene	comes
+328	deja	let
+329	durante	during
+330	forma	form
+331	volver	return
+332	feliz	happy
+333	ojos	eyes
+334	guerra	war
+335	caso	case
+336	chicos	boys
+337	esposa	wife
+338	adelante	forward
+339	cuál	which
+340	mano	hand
+341	hice	I did
+342	vi	saw
+343	gustaría	would like
+344	muerte	death
+345	allá	there
+346	mas	more
+347	loco	crazy
+348	supuesto	supposed
+349	toma	Do you take
+350	minutos	minutes
+351	haré	I will do
+352	entiendo	I do understand
+353	pasar	pass
+354	iba	would
+355	corazón	heart
+356	semana	week
+357	jefe	boss
+358	venir	come
+359	manos	hands
+360	ayuda	help
+361	problemas	problems
+362	juntos	together
+363	supongo	I suppose
+364	déjame	let me
+365	importante	important
+366	vete	leave away
+367	niño	boy
+368	arriba	up
+369	hija	daughter
+370	otros	others
+371	sra	Mrs
+372	personas	people
+373	tierra	Earth
+374	manera	way
+375	hablando	speaking
+376	fin	finish
+377	mujeres	women
+378	cara	expensive
+379	grande	big
+380	ningún	any
+381	nuestros	our
+382	cinco	five
+383	llama	call
+384	hey	hey
+385	habla	speaks
+386	bajo	low
+387	dices	you say
+388	poder	power
+389	cuándo	when
+390	quizás	maybe
+391	escucha	listen out
+392	persona	person
+393	horas	hours
+394	tío	uncle
+395	aunque	although
+396	io	io
+397	único	only
+398	dijiste	said
+399	siquiera	at least
+400	quieren	they want
+401	ninguna	any
+402	cerca	close
+403	pequeño	little
+404	debemos	we must
+405	cree	cree
+406	dame	give to me
+407	sigue	follow
+408	auto	car
+409	cuatro	four
+410	dejar	leave
+411	muchos	Many
+412	igual	same
+413	hago	I
+414	listo	ready
+415	significa	it means
+416	capitán	captain
+417	clase	class
+418	llegar	arrive
+419	doctor	doctor
+420	suficiente	enough
+421	tomar	drink
+422	vivir	live
+423	joven	young
+424	trabajar	to work
+425	haya	beech
+426	abajo	down
+427	hubiera	had
+428	primer	first
+429	genial	great
+430	justo	fair
+431	pensar	think
+432	misma	same
+433	puta	bitch
+434	comer	eat
+435	necesita	needs to
+436	conozco	I know
+437	fui	I was
+438	algunos	Some
+439	entrar	enter
+440	fuerte	strong
+441	número	number
+442	srta	Ms
+443	morir	die
+444	basta	Enough
+445	dar	give
+446	bastante	Quite
+447	amo	love
+448	atrás	behind
+449	dicen	they say
+450	difícil	difficult
+451	éste	this
+452	pueda	can
+453	punto	point
+454	vino	came
+455	hermana	sister
+456	hijos	children
+457	unas	nail
+458	final	final
+459	escuela	school
+460	podía	could
+461	pueblo	town
+462	haga	make
+463	sangre	blood
+464	meses	months
+465	coche	car
+466	juego	game
+467	encontrar	find
+468	realidad	reality
+469	cuerpo	body
+470	mayor	higher
+471	última	last
+472	eran	they were
+473	queda	remains
+474	ok	okay
+475	paz	peace
+476	dime	Tell me
+477	vuelta	return
+478	hiciste	did
+479	tenido	had
+480	sola	alone
+481	hacen	make
+482	ido	gone
+483	querida	Dear
+484	iré	I will go
+485	culpa	guilt
+486	malo	evil
+487	chicas	girls
+488	comida	food
+489	dólares	dollars
+490	dr	dr
+491	saben	they know
+492	fácil	easy
+493	alto	high
+494	posible	possible
+495	maldito	damned
+496	dormir	sleep
+497	deberías	you should
+498	maldita	damn
+499	pregunta	Question
+500	incluso	even
+501	fiesta	party
+502	tampoco	neither
+503	cama	bed
+504	lejos	far
+505	medio	medium
+506	preocupes	worry
+507	ay	Oh
+508	teléfono	phone
+509	diga	tell
+510	ei	ei
+511	trata	is
+512	equipo	equipment
+513	palabra	word
+514	cuanto	how much
+515	idiota	fool
+516	esté	this
+517	luz	light
+518	tuve	I had
+519	país	country
+520	segundo	second
+521	querido	Dear
+522	diablos	Devils
+523	hagas	you do
+524	señorita	miss
+525	oportunidad	opportunity
+526	matar	to kill
+527	algunas	some
+528	esperando	waiting
+529	necesitamos	we need
+530	adónde	where
+531	verte	verte
+532	estará	will be
+533	venido	I come
+534	estabas	you were
+535	fueron	They were
+536	seis	six
+537	tenga	have
+538	cuarto	fourth
+539	cielo	heaven
+540	vivo	alive
+541	recuerdo	memory
+542	perdón	sorry
+543	falta	lack
+544	pequeña	small
+545	oído	ear
+546	creer	believe
+547	john	john
+548	pienso	I think
+549	ésta	this
+550	esperar	wait
+551	necesitas	you need
+552	aqui	here
+553	película	movie
+554	además	Besides
+555	marido	husband
+556	perro	dog
+557	general	general
+558	calle	Street
+559	exactamente	exactly
+560	rey	king
+561	padres	parents
+562	lista	list
+563	habrá	there will be
+564	habitación	room
+565	carajo	fuck
+566	pensando	thinking
+567	par	pair
+568	fuego	fire
+569	niña	girl
+570	seguir	follow
+571	música	music
+572	di	gave
+573	habría	would
+574	mucha	lot
+575	paso	He passed
+576	sentido	sense
+577	diré	I will say
+578	podrías	could you
+579	afuera	outside
+580	digas	you say
+581	ia	ia
+582	mía	mine
+583	murió	died
+584	dio	it gave
+585	café	coffee
+586	entiendes	You understand
+587	nuestras	our
+588	piensa	think
+589	ello	it
+590	lleva	carries
+591	estuvo	he was
+592	último	latest
+593	diciendo	saying
+594	grandes	big
+595	sitio	site
+596	libro	book
+597	buscando	searching
+598	bebé	baby
+599	cállate	shut up
+600	vuelve	returns
+601	jamás	never
+602	minuto	minute
+603	arma	weapon
+604	viaje	travel
+605	única	only
+606	muchachos	boys
+607	perdido	lost
+608	jugar	to play
+609	diez	ten
+610	vemos	we see
+611	dado	dice
+612	sabemos	we know
+613	mil	one thousand
+614	demás	the rest
+615	gusto	taste
+616	peor	worst
+617	irme	leave
+618	jack	jack
+619	estaban	they were
+620	orden	order
+621	pasando	passing
+622	cambio	change
+623	extraño	strange
+624	pobre	poor
+625	ropa	clothes
+626	queremos	we want
+627	oficina	office
+628	sino	but
+629	modo	mode
+630	ocurre	occurs
+631	muchacho	boy
+632	otras	other
+633	hará	will
+634	libre	free
+635	conoces	you know
+636	piensas	you think
+637	presidente	President
+638	especial	special
+639	anoche	last night
+640	millones	millions
+641	acerca	about
+642	derecho	law
+643	negro	black
+644	acá	here
+645	caballeros	gentlemen
+646	semanas	weeks
+647	palabras	words
+648	buscar	search
+649	segura	safe
+650	correcto	Right
+651	frente	front
+652	hacemos	we make
+653	seas	you are
+654	detrás	behind
+655	puesto	post
+656	asunto	matter
+657	duro	hard
+658	sucede	happens
+659	llamar	to call
+660	disculpe	sorry
+661	boca	mouth
+662	atención	Attention
+663	mire	Look
+664	armas	weapons
+665	encima	above
+666	demonios	demons
+667	mala	bad
+668	llevar	carry
+669	cual	which
+670	odio	hate
+671	hospital	hospital
+672	deben	should
+673	sueño	dream
+674	quieras	you want
+675	resto	rest
+676	llamo	I call
+677	perder	lose
+678	llamado	called
+679	perfecto	perfect
+680	estaré	I will be
+681	tranquilo	quiet
+682	york	york
+683	seguridad	security
+684	ayudar	help
+685	tuvo	He had
+686	largo	long
+687	pena	rock
+688	probablemente	probably
+689	ayer	yesterday
+690	dile	tell
+691	prueba	proof
+692	siendo	being
+693	bonito	beautiful
+694	recuerdas	remember
+695	haz	make
+696	real	real
+697	veras	you will see
+698	increíble	amazing
+699	quisiera	I would like
+700	tonto	fool
+701	simplemente	simply
+702	vámonos	vámonos
+703	haría	would
+704	preguntas	questions
+705	aire	air
+706	conoce	known
+707	fuerza	strength
+708	carta	letter
+709	trato	treatment
+710	plan	plan
+711	ése	that
+712	verlo	view
+713	hambre	hungry
+714	vuelto	turned
+715	empezar	start
+716	campo	countryside
+717	acaba	just
+718	hablas	speak
+719	vive	lives
+720	barco	boat
+721	hotel	hotel
+722	poner	place
+723	grupo	group
+724	creí	I thought
+725	sol	Sun
+726	tuyo	of yours
+727	pase	pass
+728	joe	joe
+729	voz	voice
+730	baño	bath
+731	usar	use
+732	conseguir	get
+733	placer	pleasure
+734	llegado	arrived
+735	decirte	tell you
+736	profesor	teacher
+737	noticias	news
+738	lamento	lament
+739	decirle	tell
+740	blanco	White
+741	quédate	stay
+742	estuve	I was
+743	pie	foot
+744	anda	anda
+745	espere	Wait
+746	edad	age
+747	secreto	secret
+748	podríamos	we could
+749	compañía	company
+750	tren	train
+751	recuerda	remember
+752	tras	after
+753	siéntate	Sit down
+754	prisa	hurry
+755	vista	view
+756	hermosa	beautiful
+757	negocio	deal
+758	deberíamos	should
+759	gustan	like
+760	pagar	pay
+761	george	george
+762	futuro	future
+763	silencio	silence
+764	siente	feels
+765	médico	doctor
+766	maestro	teacher
+767	quiera	want
+768	llegó	I arrive
+769	loca	crazy
+770	cambiar	change
+771	frank	frank
+772	sal	salt
+773	control	control
+774	raro	rare
+775	viste	Dresses
+776	novia	girlfriend
+777	diferente	different
+778	imposible	impossible
+779	i	i
+780	amiga	friend
+781	enseguida	immediately
+782	llamada	call
+783	dan	give
+784	dejó	left
+785	mes	month
+786	llevo	I wear
+787	avión	airplane
+788	pelo	hair
+789	the	the
+790	error	error
+791	haremos	will
+792	tendrá	shall have
+793	propia	own
+794	siguiente	following
+795	ganar	win
+796	ley	law
+797	dolor	pain
+798	oro	gold
+799	ten	ten
+800	acabó	finished
+801	maldición	curse
+802	oficial	official
+803	situación	situation
+804	daño	hurt
+805	sientes	you feel
+806	entendido	it is understood
+807	deseo	wish
+808	mente	mind
+809	ejército	army
+810	comprar	to buy
+811	muertos	dead
+812	pensaba	thought
+813	darle	give him
+814	estúpido	stupid
+815	decía	He said
+816	acabo	finished
+817	david	david
+818	suena	sounds
+819	mitad	half
+820	caballo	horse
+821	asesino	killer
+822	vio	he saw
+823	permiso	permission
+824	ellas	they
+825	trabajando	working
+826	maravilloso	wonderful
+827	mesa	table
+828	divertido	funny
+829	mejores	top
+830	próxima	next
+831	entra	enters
+832	tom	tom
+833	mar	sea
+834	siete	seven
+835	hacía	toward
+836	sexo	sex
+837	encanta	love
+838	amable	nice
+839	mensaje	message
+840	información	information
+841	traje	suit
+842	alma	soul
+843	encontrado	found
+844	coronel	colonel
+845	dale	go ahead
+846	san	saint
+847	cena	Dinner
+848	encontré	I found
+849	charlie	charlie
+850	tendrás	will you have
+851	eras	ages
+852	propio	own
+853	culo	ass
+854	asi	so
+855	adentro	in
+856	canción	song
+857	gobierno	government
+858	sam	sam
+859	temo	I fear
+860	abre	opens
+861	dijeron	they said
+862	fuiste	you were
+863	media	half
+864	das	you give
+865	estábamos	we were
+866	estaría	It would
+867	daré	I will
+868	vosotros	you
+869	frío	cold
+870	foto	Photo
+871	accidente	accident
+872	derecha	right
+873	funciona	works
+874	vayas	go
+875	centro	center
+876	necesario	necessary
+877	miren	look
+878	bonita	pretty
+879	ante	before
+880	terrible	terrible
+881	pude	could
+882	teniente	lieutenant
+883	luna	moon
+884	izquierda	left
+885	uds	you
+886	doy	I give
+887	servicio	service
+888	llamas	flames
+889	normal	normal
+890	junto	together
+891	tienda	store
+892	navidad	Christmas
+893	dirección	address
+894	abuela	Grandma
+895	alrededor	around
+896	vine	came
+897	tendré	I will have
+898	libertad	freedom
+899	sale	comes out
+900	línea	line
+901	abogado	attorney
+902	pies	feet
+903	honor	honor
+904	tratando	trying
+905	regresar	to return
+906	hablo	I speak
+907	vieja	old woman
+908	papel	paper
+909	terminado	finished
+910	dejado	left
+911	juro	I swear
+912	hermoso	beautiful
+913	dulce	sweet
+914	sentir	feel
+915	principio	beginning
+916	interesante	interesting
+917	caja	box
+918	cualquiera	anyone
+919	ocho	eight
+920	horrible	horrible
+921	respuesta	answer
+922	perra	female dog
+923	gracioso	funny
+924	s	s
+925	trae	brings
+926	personal	personal
+927	mató	he killed
+928	completamente	completely
+929	paul	paul
+930	vienen	they come
+931	sean	are
+932	llega	arrives
+933	abuelo	grandfather
+934	tengas	you have
+935	linda	cute
+936	tendremos	we will have
+937	michael	michael
+938	partes	parts
+939	cárcel	jail
+940	hubo	there was
+941	sistema	system
+942	lindo	cute
+943	director	director
+944	hazlo	do it
+945	hicieron	they did
+946	tía	aunt
+947	busca	search
+948	don	gift
+949	baja	low
+950	pudo	could
+951	salud	health
+952	listos	ready
+953	cita	appointment
+954	tenías	you had
+955	negocios	business
+956	tipos	types
+957	cámara	camera
+958	agente	agent
+959	verás	you will see
+960	infierno	hell
+961	regalo	present
+962	río	River
+963	través	through
+964	carne	meat
+965	totalmente	totally
+966	decirme	tell me
+967	piso	floor
+968	esposo	husband
+969	oír	hear
+970	harry	harry
+971	sargento	sergeant
+972	deje	let
+973	tuya	yours
+974	ambos	both of them
+975	beber	to drink
+976	calma	calm
+977	vestido	dress
+978	salvo	except
+979	ésa	that
+980	verdadero	true
+981	basura	trash
+982	suelo	floor
+983	carrera	career
+984	cumpleaños	birthday
+985	rato	little while
+986	iremos	we'll go
+987	universidad	college
+988	bailar	dance
+989	triste	sad
+990	iglesia	church
+991	m	m
+992	delante	in front
+993	nena	baby
+994	banco	Bank
+995	cuántos	how many
+996	encuentra	find
+997	supone	means
+998	existe	exists
+999	programa	program
+1000	alegro	glad
+1001	santo	holy
+1002	porqué	why
+1003	novio	boyfriend
+1004	broma	joke
+1005	diría	would say
+1006	salió	he left
+1007	jesús	Jesus
+1008	prometo	I promise
+1009	partido	match
+1010	pregunto	I wonder
+1011	radio	radio
+1012	vuelva	return
+1013	cenar	dinner
+1014	ocurrió	occurred
+1015	creía	thought
+1016	corre	run
+1017	disculpa	Sorry
+1018	vienes	you come
+1019	cerveza	beer
+1020	muerta	dead
+1021	pensado	thought-out
+1022	destino	destination
+1023	bob	bob
+1024	matrimonio	marriage
+1025	fotos	photos
+1026	diablo	Devil
+1027	volveré	I will be back
+1028	saberlo	I know
+1029	cielos	Heavens
+1030	norte	north
+1031	sala	living room
+1032	órdenes	orders
+1033	según	according to
+1034	harás	you will do
+1035	ataque	attack
+1036	parís	Paris
+1037	ejemplo	example
+1038	sorpresa	surprise
+1039	té	tea
+1040	pudiera	could
+1041	baile	dance
+1042	club	club
+1043	temprano	early
+1044	público	public
+1045	tí	you
+1046	oí	I heard
+1047	mirando	looking
+1048	ventana	window
+1049	conocido	known
+1050	duda	doubt
+1051	boda	wedding
+1052	peligro	danger
+1053	trabaja	works
+1054	quise	I wanted
+1055	querías	you wanted
+1056	caliente	hot
+1057	escribir	type in
+1058	reina	Queen
+1059	esperaba	I expected
+1060	embargo	embargo
+1061	sur	south
+1062	enfermo	sick
+1063	excelente	Excellent
+1064	pone	places
+1065	estés	you're
+1066	escena	scene
+1067	encuentro	meeting
+1068	asesinato	murder
+1069	mike	mike
+1070	obra	work
+1071	n	n
+1072	veré	I will see
+1073	llamó	I call
+1074	aquel	that
+1075	terminar	end up
+1076	ganas	want
+1077	conocer	know
+1078	pruebas	testing
+1079	señores	Messrs
+1080	vos	you
+1081	escúchame	listen to me
+1082	veamos	let's see
+1083	creen	believe
+1084	aun	yet
+1085	ninguno	any
+1086	parecía	looked like
+1087	mary	mary
+1088	viva	live
+1089	apenas	barely
+1090	segunda	second
+1091	bill	bill
+1092	llave	key
+1093	regreso	he came back
+1094	trasero	rear
+1095	ojalá	hopefully
+1096	veremos	we will see
+1097	simple	simple
+1098	seré	I will be
+1099	éi	ei
+1100	irse	leave
+1101	cartas	letters
+1102	l	l
+1103	libros	books
+1104	apuesto	dapper
+1105	leer	read
+1106	imbécil	moron
+1107	opinión	opinion
+1108	joder	fuck
+1109	cambiado	changed
+1110	sucedió	it happened
+1111	señal	signal
+1112	habían	they had
+1113	agradable	nice
+1114	cocina	kitchen
+1115	relación	relationship
+1116	sueños	dreams
+1117	segundos	seconds
+1118	corte	cut
+1119	escuchar	hear
+1120	cerebro	brain
+1121	locura	madness
+1122	peligroso	dangerous
+1123	hermanos	brothers
+1124	entender	to understand
+1125	cine	cinema
+1126	dejes	let
+1127	reunión	meeting
+1128	tendría	would have
+1129	verla	see
+1130	duele	it hurt
+1131	hicimos	we did
+1132	londres	London
+1133	tocar	touch
+1134	mirar	look
+1135	verme	see me
+1136	ben	ben
+1137	suyo	his
+1138	causa	cause
+1139	pelea	fight
+1140	prisión	prison
+1141	jim	jim
+1142	mayoría	most
+1143	fondo	background
+1144	acaso	perhaps
+1145	vuelvo	I return
+1146	serán	will be
+1147	montón	heap
+1148	toca	touches
+1149	comandante	commander
+1150	tome	I took
+1151	éxito	success
+1152	misión	mission
+1153	vidas	lives
+1154	decisión	decision
+1155	hogar	home
+1156	rico	rich
+1157	trago	drink
+1158	capaz	able
+1159	cargo	position
+1160	unidos	United
+1161	lleno	filled
+1162	bar	Pub
+1163	estrella	star
+1164	posición	position
+1165	estación	station
+1166	interesa	interested
+1167	uh	uh
+1168	edificio	building
+1169	vayan	go
+1170	consejo	advice
+1171	pistola	gun
+1172	humano	human
+1173	irnos	leave
+1174	fantástico	fantastic
+1175	ojo	eye
+1176	jóvenes	young
+1177	zapatos	shoes
+1178	majestad	majesty
+1179	lee	read
+1180	flores	flowers
+1181	ocupado	busy
+1182	bienvenido	Welcome
+1183	zona	zone
+1184	contacto	contact
+1185	henry	henry
+1186	sacar	take
+1187	podrían	They could
+1188	jimmy	jimmy
+1189	tema	theme
+1190	matado	killed
+1191	soldado	soldier
+1192	sabías	you know
+1193	johnny	johnny
+1194	pido	I ask
+1195	cierra	closes
+1196	peter	peter
+1197	intento	tried
+1198	irá	go to
+1199	calor	hot
+1200	finalmente	Finally
+1201	equivocado	wrong
+1202	animales	animals
+1203	departamento	Department
+1204	enemigo	enemy
+1205	caballero	gentleman
+1206	color	Colour
+1207	necesitan	They need
+1208	empieza	starts
+1209	soldados	soldiers
+1210	vea	see
+1211	entiende	understands
+1212	valor	value
+1213	azul	blue
+1214	miles	thousands
+1215	espacio	space
+1216	estarás	you will be
+1217	mantener	keep
+1218	aprender	to learn
+1219	inteligente	smart
+1220	serás	you will
+1221	arte	art
+1222	respeto	respect
+1223	pedir	order
+1224	puso	put
+1225	llaman	call
+1226	oiga	Listen
+1227	juez	judge
+1228	inglés	English
+1229	precio	price
+1230	rojo	Red
+1231	formas	shapes
+1232	hagan	make
+1233	verano	summer
+1234	podido	I could
+1235	piernas	legs
+1236	isla	island
+1237	darme	give me
+1238	damas	ladies
+1239	guardia	guard
+1240	espalda	back
+1241	c	c
+1242	vengan	come
+1243	parar	stop
+1244	llevas	take
+1245	banda	band
+1246	quedarme	stay
+1247	habéis	you have
+1248	marcha	March
+1249	luces	lights
+1250	estuviera	he was
+1251	crimen	crime
+1252	dejo	left
+1253	ayudarte	assist you
+1254	esperen	expect
+1255	teníamos	we had
+1256	diferencia	difference
+1257	llamaré	I'll call
+1258	ama	loves
+1259	conocí	I met
+1260	tiempos	time
+1261	déjalo	leave it
+1262	debajo	below
+1263	compañero	partner
+1264	dejé	let
+1265	come	eat
+1266	déjeme	let me
+1267	molesta	upset
+1268	contar	tell
+1269	dejaré	I'll leave
+1270	hablamos	We speak
+1271	cansado	tired
+1272	ganado	won
+1273	pareces	you seem
+1274	juicio	judgment
+1275	hablado	spoken
+1276	estilo	style
+1277	ayúdame	Help me
+1278	sepa	know
+1279	viendo	seeing
+1280	salida	departure
+1281	alegra	happy
+1282	despierta	awake
+1283	estupendo	great
+1284	darte	to give you
+1285	estados	state
+1286	quedan	are
+1287	próximo	next
+1288	nota	note
+1289	llevó	I wear
+1290	puedas	you can
+1291	podrá	you can
+1292	james	james
+1293	nave	nave
+1294	base	base
+1295	tenían	They had
+1296	sube	goes up
+1297	vuelo	flight
+1298	excepto	except
+1299	golpe	knock
+1300	d	d
+1301	viento	wind
+1302	estaremos	we will be
+1303	acción	Action
+1304	tonterías	silly stuff
+1305	respecto	respect
+1306	desea	you want
+1307	sigues	Do you follow
+1308	debía	should
+1309	vendrá	will come
+1310	encontramos	we find
+1311	beso	kiss
+1312	cuestión	question
+1313	volvió	went back
+1314	reglas	rules
+1315	ruido	noise
+1316	acabado	finish
+1317	salga	out
+1318	olvidado	forgotten
+1319	mentira	lie
+1320	brazo	arm
+1321	empezó	it started
+1322	cálmate	Calm down
+1323	caballos	horses
+1324	experiencia	experience
+1325	tranquila	calm
+1326	quedar	stay
+1327	esperanza	hope
+1328	irte	leave
+1329	vd	you
+1330	perros	dogs
+1331	casado	married
+1332	llegue	I arrived
+1333	drogas	drugs
+1334	pidió	he asked
+1335	espíritu	spirit
+1336	vacaciones	holidays
+1337	copa	cup
+1338	investigación	investigation
+1339	prefiero	I prefer
+1340	solía	I used to
+1341	llevaré	I'll take
+1342	menudo	often
+1343	partir	from
+1344	visita	visit
+1345	alta	high
+1346	abrir	open
+1347	tony	tony
+1348	nueve	nine
+1349	bomba	bomb
+1350	energía	energy
+1351	bolsa	bag
+1352	hacerte	make
+1353	santa	St.
+1354	pan	bread
+1355	piel	skin
+1356	usa	uses
+1357	metros	meters
+1358	perdona	forgives
+1359	escrito	written
+1360	exacto	exact
+1361	jugando	Playing
+1362	cuello	neck
+1363	larga	long
+1364	escapar	escape
+1365	salvar	save
+1366	escuche	I heard
+1367	perdone	forgive
+1368	sirve	it serves
+1369	preocupe	worry
+1370	especie	species
+1371	aquella	That
+1372	verá	you will see
+1373	brazos	arms
+1374	llena	full
+1375	subir	go up
+1376	blanca	white
+1377	fe	faith
+1378	steve	steve
+1379	modos	modes
+1380	traído	brought
+1381	películas	movies
+1382	dama	Lady
+1383	suya	his
+1384	decirlo	say
+1385	doble	double
+1386	inmediatamente	immediately
+1387	culpable	guilty
+1388	preocupa	worries
+1389	tardes	afternoons
+1390	vengo	I come
+1391	bosque	forest
+1392	perdí	I lost
+1393	max	max
+1394	volverá	will return
+1395	taxi	cab
+1396	volar	fly
+1397	debido	due
+1398	repente	suddenly
+1399	bromeando	joking
+1400	ios	ios
+1401	viejos	aged
+1402	planeta	planet
+1403	leche	milk
+1404	nick	nick
+1405	tanta	so much
+1406	tuviera	had
+1407	encantado	charmed
+1408	cabrón	dumbass
+1409	correr	run
+1410	depende	It depends
+1411	eddie	eddie
+1412	común	common
+1413	informe	report
+1414	billy	billy
+1415	solamente	only
+1416	máquina	machine
+1417	muere	go dead
+1418	principal	principal
+1419	ridículo	ridiculous
+1420	entrada	entry
+1421	encontró	he found
+1422	podamos	we can
+1423	acabar	finish
+1424	américa	America
+1425	regresa	came back
+1426	probar	try
+1427	príncipe	prince
+1428	mr	mr
+1429	preparado	prepared
+1430	pedido	order
+1431	propósito	purpose
+1432	dieron	they gave
+1433	salido	stepped out
+1434	cliente	customer
+1435	árbol	tree
+1436	absoluto	absolute
+1437	dejas	you let
+1438	quiénes	Who
+1439	habías	you had
+1440	b	b
+1441	parecen	they look like
+1442	belleza	beauty
+1443	llame	I called
+1444	intenta	tries
+1445	humanos	humans
+1446	you	you
+1447	tratar	try
+1448	vuestra	your
+1449	hayas	you have
+1450	princesa	princess
+1451	sigo	I follow
+1452	quedarse	stay
+1453	oeste	West
+1454	traer	bring
+1455	olvídalo	forget this
+1456	francia	France
+1457	tuvimos	we had
+1458	ayudarme	help
+1459	deprisa	quickly
+1460	llaves	keys
+1461	tiro	threw
+1462	cerdo	pork
+1463	gato	cat
+1464	inglaterra	England
+1465	vistazo	glance
+1466	cuántas	how many
+1467	defensa	defense
+1468	nuevos	new
+1469	últimos	latest
+1470	reloj	clock
+1471	fuimos	we went
+1472	batalla	battle
+1473	hable	I talked
+1474	caminar	walk
+1475	hacerle	give
+1476	vayamos	we go
+1477	interior	inside
+1478	bella	beautiful
+1479	felices	happy
+1480	intentando	trying
+1481	apartamento	apartment
+1482	teatro	theater
+1483	hacerme	me
+1484	papi	Daddy
+1485	ee	ee
+1486	asuntos	issues
+1487	confiar	trust
+1488	hielo	ice
+1489	detective	detective
+1490	deberían	should
+1491	cantar	to sing
+1492	bajar	lower
+1493	vuestro	your
+1494	pelear	fight
+1495	locos	crazy
+1496	paga	pay
+1497	oyes	you hear
+1498	completo	full
+1499	lucha	fight
+1500	fuerzas	forces
+1501	ideas	Ideas
+1502	borracho	drunk
+1503	héroe	hero
+1504	camión	truck
+1505	cabo	cape
+1506	dientes	teeth
+1507	verde	green
+1508	despacio	slowly
+1509	decidido	decided
+1510	sociedad	society
+1511	pareja	couple
+1512	dígame	tell me
+1513	estuviste	you were
+1514	nariz	nose
+1515	vergüenza	shame
+1516	caer	fall
+1517	j	j
+1518	herido	injured
+1519	uu	uu
+1520	cuentas	accounts
+1521	pista	track
+1522	siéntese	sit
+1523	bebe	baby
+1524	sonido	sound
+1525	estrellas	stars
+1526	sombrero	hat
+1527	cayó	he fell
+1528	evitar	avoid
+1529	pasará	it will happen
+1530	maría	Maria
+1531	memoria	memory
+1532	solos	alone
+1533	llorar	cry
+1534	nervioso	nervous
+1535	lástima	pity
+1536	haberlo	I have
+1537	época	period
+1538	naturaleza	nature
+1539	vender	sell
+1540	política	politics
+1541	levántate	Get up
+1542	estudio	study
+1543	brillante	bright
+1544	nivel	level
+1545	diferentes	different
+1546	dando	giving
+1547	hubiese	I had
+1548	permite	It allows
+1549	justicia	Justice
+1550	planes	plans
+1551	gay	gay
+1552	mírame	Look at me
+1553	llegamos	we arrived
+1554	roma	Rome
+1555	seguramente	surely
+1556	papa	dad
+1557	parecer	seem
+1558	t	t
+1559	terminó	finished
+1560	pierna	leg
+1561	quienes	Who
+1562	ray	ray
+1563	millón	million
+1564	enorme	huge
+1565	charles	charles
+1566	inocente	innocent
+1567	mismos	same
+1568	pantalones	pants
+1569	ministro	Minister
+1570	bienvenida	welcome
+1571	u	or
+1572	refiero	I mean
+1573	nombres	Name (s
+1574	mando	I send
+1575	ponte	ponte
+1576	preciosa	precious
+1577	alex	alex
+1578	quedó	remained
+1579	podrás	you can
+1580	pesar	to weigh
+1581	animal	animal
+1582	enferma	sick
+1583	extraña	strange
+1584	enamorado	in love
+1585	tv	TV
+1586	autobús	bus
+1587	recordar	remember
+1588	estáis	you are
+1589	pequeños	little ones
+1590	luchar	to struggle
+1591	date	date
+1592	contrario	contrary
+1593	tomado	taken
+1594	sois	you are
+1595	movimiento	movement
+1596	estan	is it so
+1597	sentado	seated
+1598	gana	desire
+1599	robert	robert
+1600	estén	are
+1601	motivo	reason
+1602	absolutamente	absolutely
+1603	dé	from
+1604	puente	bridge
+1605	comprendo	I understand
+1606	huevos	eggs
+1607	tomó	I take
+1608	cuento	story
+1609	botella	bottle
+1610	cuesta	cost
+1611	detente	detente
+1612	corriendo	running
+1613	confianza	confidence
+1614	felicidad	happiness
+1615	espada	sword
+1616	silla	chair
+1617	bobby	bobby
+1618	noticia	news
+1619	casas	houses
+1620	televisión	TV
+1621	acuerdas	remember
+1622	necesitaba	needed
+1623	pared	wall
+1624	aquellos	those
+1625	prensa	press
+1626	trampa	trap
+1627	presente	present
+1628	estarán	will be
+1629	jardín	garden
+1630	cabello	hair
+1631	espectáculo	show
+1632	podré	I will be able
+1633	grave	serious
+1634	bastardo	bastard
+1635	dará	give to
+1636	siga	follow
+1637	periódico	Newspaper
+1638	coño	cone
+1639	danny	danny
+1640	negros	black
+1641	alguno	any
+1642	anillo	ring
+1643	monstruo	monster
+1644	total	total
+1645	ai	ai
+1646	tommy	tommy
+1647	piedra	stone
+1648	contento	happy
+1649	quedarte	stay
+1650	tengan	have
+1651	oigan	hear
+1652	sentí	I felt
+1653	debí	I should
+1654	ahi	there
+1655	policías	police
+1656	lugares	places
+1657	contrato	contract
+1658	playa	Beach
+1659	costa	coast
+1660	puertas	doors
+1661	asiento	seat
+1662	tarjeta	card
+1663	restaurante	restaurant
+1664	quede	stay
+1665	paseo	walk
+1666	hechos	acts
+1667	hagamos	let's do
+1668	maravillosa	wonderful
+1669	pon	put
+1670	inspector	inspector
+1671	domingo	Sunday
+1672	especialmente	especially
+1673	velocidad	speed
+1674	negra	black
+1675	richard	richard
+1676	intentar	try
+1677	proyecto	draft
+1678	clientes	customers
+1679	victoria	victory
+1680	encantaría	love
+1681	operación	operation
+1682	perdió	lost
+1683	tonta	dumb
+1684	imagen	image
+1685	show	show
+1686	lleve	I carried
+1687	amas	love
+1688	responsable	responsible
+1689	gustaba	He liked
+1690	aspecto	aspect
+1691	tantos	many
+1692	sentimientos	feelings
+1693	creerlo	I believe it
+1694	objetivo	objective
+1695	sarah	sarah
+1696	llevan	They carry
+1697	malas	bad
+1698	red	net
+1699	dejen	leave
+1700	nuevas	news
+1701	muchacha	girl
+1702	dormido	asleep
+1703	and	and
+1704	historias	stories
+1705	arreglar	fix
+1706	turno	turn
+1707	yendo	going
+1708	tuviste	you had
+1709	ponga	put
+1710	olvides	forget
+1711	escuché	I heard
+1712	pasada	pass
+1713	mata	Bush
+1714	tantas	many
+1715	montaña	Montana
+1716	gracia	grace
+1717	enfermedad	disease
+1718	dedos	fingers
+1719	guapa	beautiful
+1720	querer	want
+1721	p	p
+1722	ocurrido	happened
+1723	pocos	few
+1724	deber	duty
+1725	refieres	you mean
+1726	viernes	Friday
+1727	preocupado	worried
+1728	clases	classes
+1729	rayos	Ray
+1730	inútil	Useless
+1731	washington	Washington
+1732	abierto	open
+1733	haberte	sorry
+1734	oscuridad	darkness
+1735	verdadera	real
+1736	americano	American
+1737	trajo	brought
+1738	gustó	taste
+1739	primo	cousin
+1740	nacional	national
+1741	supe	I knew
+1742	colegio	school
+1743	malditos	accursed
+1744	cuchillo	knife
+1745	ibas	you were
+1746	llegué	I arrived
+1747	sir	sir
+1748	diario	daily
+1749	francés	French
+1750	quedo	I remain
+1751	podremos	we can
+1752	orgulloso	proud
+1753	ladrón	thief
+1754	martin	martin
+1755	preguntar	ask
+1756	pedí	I asked
+1757	central	central
+1758	voluntad	Will
+1759	harán	they will
+1760	jake	jake
+1761	www	www
+1762	militar	military
+1763	agradezco	I appreciate
+1764	llevaba	He is wearing
+1765	mami	Mommy
+1766	lluvia	rain
+1767	éramos	we were
+1768	natural	natural
+1769	calles	streets
+1770	cien	hundred
+1771	lengua	tongue
+1772	china	China
+1773	testigo	witness
+1774	ayude	help
+1775	quiso	he wanted
+1776	cansada	tired
+1777	puse	I put
+1778	irás	you will go
+1779	alemanes	German
+1780	pago	payment
+1781	mirada	look
+1782	momentos	moments
+1783	quieto	still
+1784	sentía	he felt
+1785	escuchen	listen
+1786	descansar	rest
+1787	mercado	market
+1788	dura	hard
+1789	humana	human
+1790	estúpida	stupid
+1791	humor	humor
+1792	bienvenidos	Welcome
+1793	conocía	he knew
+1794	jane	jane
+1795	entero	whole
+1796	roja	red
+1797	larry	larry
+1798	llamaba	He called
+1799	tomas	shots
+1800	dueño	owner
+1801	echar	throw
+1802	emergencia	emergency
+1803	roto	broken
+1804	actuar	act
+1805	mark	mark
+1806	inmediato	righ now
+1807	puntos	points
+1808	paciente	patient
+1809	olvidé	forgot
+1810	hables	you speak
+1811	varios	several
+1812	polvo	dust
+1813	ángeles	angels
+1814	coger	take
+1815	distancia	distance
+1816	bravo	Bravo
+1817	europa	Europe
+1818	mataron	they killed
+1819	tomando	taking
+1820	verle	see
+1821	señoría	lordship
+1822	casarse	get marry
+1823	toque	touch
+1824	toques	touches
+1825	ángel	Angel
+1826	amante	lover
+1827	habló	I speak
+1828	saca	shows
+1829	digamos	let say
+1830	perfecta	perfect
+1831	rosa	pink
+1832	llámame	Giving me a call
+1833	nosotras	we
+1834	peso	weight
+1835	carga	load
+1836	acto	act
+1837	robar	Steal
+1838	dejaste	you left
+1839	desastre	disaster
+1840	bote	boat
+1841	huele	smells
+1842	embarazada	pregnant
+1843	muestra	sample
+1844	gordo	Fat
+1845	puto	fucking
+1846	sheriff	sheriff
+1847	viviendo	living
+1848	anna	anna
+1849	cerrar	close
+1850	papeles	papers
+1851	valiente	brave
+1852	gloria	glory
+1853	aceptar	accept
+1854	perdóname	excuse me
+1855	perfectamente	perfectly
+1856	oscuro	Dark
+1857	cuidar	look after
+1858	dedo	finger
+1859	ruego	I beg
+1860	pareció	it seemed
+1861	tumba	tomb
+1862	coge	gets
+1863	resulta	result
+1864	dejarlo	leave
+1865	comenzar	start
+1866	área	area
+1867	metido	I got
+1868	limpio	cleansed
+1869	descanso	rest
+1870	lados	sides
+1871	posibilidad	possibility
+1872	jerry	jerry
+1873	guapo	Handsome
+1874	uso	use
+1875	talento	talent
+1876	matarme	kill me
+1877	continuar	continue
+1878	código	code
+1879	comenzó	started
+1880	duerme	sleeps
+1881	r	r
+1882	definitivamente	definitely
+1883	dave	dave
+1884	directo	direct
+1885	vuelvas	you return
+1886	dia	day
+1887	demonio	demon
+1888	parque	Park
+1889	cambia	change
+1890	olvidar	forget
+1891	cinta	tape
+1892	famoso	famous
+1893	mataré	I will kill
+1894	siguen	follow
+1895	saliendo	coming out
+1896	muevas	you move
+1897	señoras	ladies
+1898	disparar	shoot
+1899	to	to
+1900	chris	chris
+1901	sóio	onIy
+1902	ja	ja
+1903	pide	requests
+1904	debió	He had to
+1905	empresa	company
+1906	precioso	beautiful
+1907	termina	ends
+1908	intención	intention
+1909	tambien	also
+1910	recibir	to receive
+1911	hubieras	you had
+1912	abrigo	coat
+1913	encuentras	you find
+1914	diste	you gave
+1915	tendrán	will
+1916	cerrado	closed
+1917	conocerte	know
+1918	hablé	I talked
+1919	menor	less
+1920	querría	I would want
+1921	imagino	I imagine
+1922	genio	genius
+1923	profesional	professional
+1924	oigo	I hear
+1925	pongo	I put
+1926	niñas	girls
+1927	muévete	move on
+1928	opción	option
+1929	tribunal	court
+1930	tenéis	you have
+1931	lago	lake
+1932	unidad	unit
+1933	abierta	open
+1934	efecto	effect
+1935	presión	Pressure
+1936	varias	several
+1937	robo	Stole
+1938	saldrá	will
+1939	veía	saw
+1940	quedado	left
+1941	alcalde	mayor
+1942	empleo	employment
+1943	pollo	chicken
+1944	whisky	whiskey
+1945	california	California
+1946	carretera	highway
+1947	sábado	Saturday
+1948	aeropuerto	airport
+1949	jodido	fucking
+1950	pobres	poor
+1951	medicina	medicine
+1952	llevará	carry
+1953	gratis	free
+1954	cae	falls off
+1955	fortuna	fortune
+1956	castillo	castle
+1957	nieve	snow
+1958	busco	I look
+1959	riesgo	risk
+1960	alemán	German
+1961	sucio	dirty
+1962	idiotas	idiots
+1963	walter	walter
+1964	conversación	conversation
+1965	fuese	it was
+1966	comienzo	beginning
+1967	pasé	pass
+1968	encontraron	they found
+1969	elección	choice
+1970	ey	ey
+1971	salgan	leave
+1972	carro	car
+1973	piensan	they think
+1974	rostro	face
+1975	razones	reasons
+1976	fué	was
+1977	propiedad	property
+1978	mundial	worldwide
+1979	familiar	family
+1980	libras	pounds
+1981	hablemos	let's talk
+1982	pedazo	piece
+1983	continúa	keep going
+1984	cola	queue
+1985	enemigos	enemies
+1986	marca	brand
+1987	líder	Leader
+1988	hablan	speak
+1989	durmiendo	sleeping
+1990	socorro	relief
+1991	fútbol	football
+1992	detalles	details
+1993	hiciera	do
+1994	recibido	received
+1995	tesoro	treasure
+1996	camisa	shirt
+1997	thomas	thomas
+1998	comienza	begins
+1999	conducir	drive
+2000	andar	walk
