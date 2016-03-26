@@ -4,7 +4,7 @@ A command line game to study the 2000 most frequently occuring spanish words.
 
 Source for spanish frequency list: http://www.101languages.net/spanish/most-common-spanish-words/
 
-__Usage__: Navigate to the spanish\_guesser directory and type `python game1.py`.
+__Usage__: Navigate to the spanish\_guesser directory and type: `python game1.py`.
 
 __Dependencies__: [numpy](http://www.numpy.org/)
 
