@@ -147,8 +147,8 @@ def main():
         print('{0} out of {1} words completed\n'.format(words_completed,
                                                         total_words))
     print('\nYOU WIN!\n')
-    print('The last word was ({0}), which ' +
-          'translates to ({1}).'.format(game_list[0][0], game_list[0][1]))
+    print('The last word was ({0}), which '.format(game_list[0][0]) +
+          'translates to ({1}).'.format(game_list[0][1]))
 
 
 if __name__ == '__main__':
