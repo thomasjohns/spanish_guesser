@@ -5,6 +5,7 @@
 import csv
 import numpy
 import time
+import random
 
 
 # frequency list representing state of game
@@ -12,6 +13,8 @@ game_list = []
 # dictionary keeping track of the number of correct guesses in a row for
 # each word
 gc_dict = {}
+# keep track of the total number of correct guesses the user has made
+words_completed = 0
 
 
 def initial_prompt():
@@ -33,7 +36,7 @@ def initial_prompt():
     return guess_lang, int(total_word_num)
 
 
-def populate_list(guess_lang, total_word_num):
+def populate_game_list(guess_lang, total_word_num):
     """
     Populate global list of Spanish English pairs of words. The number
     of pairs is specified by the player (total_word_num) and the order
@@ -56,7 +59,7 @@ def populate_list(guess_lang, total_word_num):
     with open('full_list.txt', newline='', encoding='utf-8') as span_file:
         reader = csv.reader(span_file, delimiter='\t')
         for row_num, row in enumerate(reader):
-            if row_num > total_word_num:
+            if row_num >= total_word_num:
                 return
             else:
                 if guess_lang == 's':
@@ -73,16 +76,79 @@ def initialize_guess_count_dict():
     guess count dictionary.
     """
     for pair in game_list:
-        gc_dict[pair[0]] = 0
+        gc_dict[pair[1]] = 0
+
+
+def get_index(used_index=None):
+    """
+    Return an index to select a Spanish English pair from the game list.
+    The index is chosen randomly from an exponential distribution following
+    the formula:
+
+    (2/N)*exp(-2*x/N)
+
+    rounded down to the nearest integer, where N is the length of the game
+    list.
+
+    The optional input parameter (used_index) will assure that the returned
+    index is not the same as used_index.
+    """
+    index = int(numpy.random.exponential(scale=len(game_list)/2))
+    if index > len(game_list) - 1:
+        index = len(game_list) - 1
+    if used_index is None or index != used_index:
+        return index
+    elif index == 0:
+        return 1
+    else:
+        return index - 1
+
+
+def play_round():
+    """
+    Play one round of the game i.e. let the player try to translate
+    a word.
+    """
+    global words_completed
+    correct_index = get_index()
+    indices_list = []
+    indices_list.append(correct_index)
+    for i in range(0, min(len(game_list), 3)):
+        indices_list.append(get_index(correct_index))
+    print('\nTranslate: {0}\n'.format(game_list[correct_index][0]))
+    random.shuffle(indices_list)
+    letters = ['a', 'b', 'c', 'd']
+    for i, index in enumerate(indices_list):
+        print('{0}: {1}'.format(letters[i], game_list[index][1]))
+    letter = input('\nType a, b, c, or d: ')
+    if letter not in letters:
+        letter = 'a'
+    guess = game_list[indices_list[letters.index(letter)]][1] 
+    correct_guess = game_list[correct_index][1]
+    if guess == correct_guess:
+        print('\nCorrect!!!\n')
+        if gc_dict[guess] == 0:
+            gc_dict[guess] = 1
+        else:
+            del game_list[correct_index]
+            words_completed += 1
+    else:
+        print('\nIncorrect')
+        print('The correct translation was ({0}).\n'.format(correct_guess))
 
 
 def main():
     guess_lang, total_word_num = initial_prompt()
-    populate_list(guess_lang, total_word_num)
+    populate_game_list(guess_lang, total_word_num)
+    total_words = total_word_num
     initialize_guess_count_dict()
-    for i in range(0, len(game_list)):
-        print(game_list[i])
-    print(gc_dict)
+    while len(game_list) > 1:
+        play_round()
+        print('{0} out of {1} words completed\n'.format(words_completed,
+                                                        total_words))
+    print('\nYOU WIN!\n')
+    print('The last word was ({0}), which ' +
+          'translates to ({1}).'.format(game_list[0][0], game_list[0][1]))
 
 
 if __name__ == '__main__':
