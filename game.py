@@ -123,7 +123,7 @@ def play_round():
     letter = input('\nType a, b, c, or d: ')
     if letter not in letters:
         letter = 'a'
-    guess = game_list[indices_list[letters.index(letter)]][1] 
+    guess = game_list[indices_list[letters.index(letter)]][1]
     correct_guess = game_list[correct_index][1]
     if guess == correct_guess:
         print('\nCorrect!!!\n')
@@ -148,7 +148,7 @@ def main():
                                                         total_words))
     print('\nYOU WIN!\n')
     print('The last word was ({0}), which '.format(game_list[0][0]) +
-          'translates to ({1}).'.format(game_list[0][1]))
+          'translates to ({0}).'.format(game_list[0][1]))
 
 
 if __name__ == '__main__':
