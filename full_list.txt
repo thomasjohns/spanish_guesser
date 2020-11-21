@@ -4,7 +4,7 @@
 4	a	to
 5	la	the
 6	el	he
-7	y	Y
+7	y	and
 8	es	is
 9	en	in
 10	lo	the
